@@ -4,6 +4,13 @@
     <p class="slogan">If you're gonna rage, do it right !</p>
 
     <RageBox />
+
+    <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8142901057856042"
+     data-ad-slot="3227131350"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
   </div>
   
 </template>

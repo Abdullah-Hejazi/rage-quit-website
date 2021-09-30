@@ -88,6 +88,7 @@ export default {
 <style scoped>
   .rage-box {
     text-align: center;
+    margin-bottom: 10px;
   }
 
   .input {
