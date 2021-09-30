@@ -1,7 +1,7 @@
 <template>
   <div class="bg-blur">
     <h1 class="title">Rage Quit</h1>
-    <p class="slogan">If you're gonna be toxic, do it right !</p>
+    <p class="slogan">If you're gonna rage, do it right !</p>
 
     <RageBox />
   </div>
